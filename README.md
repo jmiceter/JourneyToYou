@@ -6,8 +6,8 @@ The goal of the app is to show the stages of fetal development with a warm, welc
 This project is currently in early development.
 
 ---
-
-## 🚀 Features (Planned)
+## Features (Complete)
+## Features (Planned)
 
 ### v0.1 — Core App
 - Expo-based cross-platform mobile app  
